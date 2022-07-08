@@ -1,4 +1,4 @@
 <?php
 
 echo 2;
-echo from Ivan;
+echo :from Ivan;
